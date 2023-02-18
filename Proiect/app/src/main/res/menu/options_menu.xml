@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/showUsers"
+        android:title="@string/showUsers_menuTitle" />
+    <item
+        android:id="@+id/showPartners"
+        android:title="@string/showPartners_menuTitle" />
+    <item
+        android:id="@+id/showDiscounts"
+        android:title="@string/showDiscounts_menuTitle" />
+    <item
+        android:id="@+id/showCards"
+        android:title="@string/showCards_menuTitle" />
+    <item
+        android:id="@+id/aboutPage"
+        android:title="@string/aboutPage_feedback" />
+
+
+</menu>

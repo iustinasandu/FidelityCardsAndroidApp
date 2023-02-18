@@ -1,0 +1,101 @@
+<resources>
+    <string name="welcomeMessage">Welcome to Fidelity Card App!</string>
+
+    <string name="app_name">FidelityCardsApp</string>
+    <string name="insertCard_pageTitle">Adauga card</string>
+    <string name="insertCard_partnerNameHint">Nume partener</string>
+    <string name="insertCard_cardNumberHint">Numar card</string>
+    <string name="insertCard_expirationDateHint">Data expirare</string>
+    <string name="insertCard_userNameHint">Nume utilizator</string>
+
+    <string name="insertUser_pageTitle">Creeaza cont</string>
+    <string name="insertUser_userNameHint">Nume si Prenume</string>
+    <string name="insertUser_emailHint">E-mail</string>
+    <string name="insertUser_passwordHint">Parola</string>
+
+    <string name="insertPartner_pageTitle">Adauga partener</string>
+    <string name="insertPartner_partnerNameHint">Nume partener</string>
+    <string name="insertPartner_addressHint">Adresa</string>
+    <string name="insertPartner_cuiHint">CUI</string>
+
+    <string name="insertDiscount_pageTitle">Adauga oferta</string>
+    <string name="insertDiscount_titleHint">Titlu</string>
+    <string name="insertDiscount_descriptionHint">Descriere</string>
+    <string name="insertDiscount_percentageHint">Procent reducere</string>
+    <string name="insertDiscount_cardNoHint">Numar card</string>
+
+    <string name="aboutPage_pageTitle">Fidelity Card</string>
+    <string name="aboutPage_feedbackTitle">Feedback</string>
+    <string name="aboutPage_feedbackHint">Feedback-ul tau</string>
+    <string name="aboutPage_subject">Alege subiect:</string>
+    <string name="aboutPage_uploadImage">Incarca o imagine</string>
+    <string name="aboutPage_emailHint">E-mail-ul tau</string>
+    <string name="aboutPage_feedback">Feedback</string>
+
+    <string name="showCards_pageTitle">Carduri existente</string>
+    <string name="titleInsertCard">Mai adauga un card</string>
+    <string name="add_partnerName_error_message">Invalid partner name. Minim 3 characters</string>
+    <string name="add_userName_error_message">Invalid user name. Minim 3 characters</string>
+    <string name="add_cardNo_error_message">Invalid card number. Accepted length: between 6 and 10 characters</string>
+    <string name="add_expirationDate_error_message">Invalid expiration date. Accepted format dd/MM/yyyy</string>
+
+    <string name="showUsers_pageTitle">Utilizatori existenti</string>
+    <string name="titleInsertUser">Mai adauga un utilizator</string>
+    <string name="add_password_error_message">Invalid password. Accepted length: between 4 and 6 characters</string>
+    <string name="add_email_error_message">Invalid email. Minim 5 characters, including @ and .</string>
+
+    <string name="showPartners_pageTitle">Parteneri existenti</string>
+    <string name="titleInsertPartner">Mai adauga un partener</string>
+    <string name="add_address_error_message">Invalid address. Minim 10 characters</string>
+    <string name="add_cui_error_message">Invalid CUI. Accepted length: between 1 and 11 characters</string>
+
+    <string name="showDiscounts_pageTitle">Oferte existente</string>
+    <string name="titleInsertDiscount">Mai adauga o oferta</string>
+    <string name="add_title_error_message">Invalid title. Minim 3 characters</string>
+    <string name="add_description_error_message">Invalid description. Minim 10 characters</string>
+    <string name="add_percentage_error_message">Invalid percentage.</string>
+
+    <string name="showUsers_menuTitle">Utilizatori</string>
+    <string name="showCards_menuTitle">Carduri</string>
+    <string name="showPartners_menuTitle">Parteneri</string>
+    <string name="showDiscounts_menuTitle">Oferte</string>
+
+    <string name="App_Picture">picture</string>
+    <string name="card_adapter_default_value">-</string>
+
+    <string name="insertCard_id">Id</string>
+    <string name="aboutPage_submit">Salveaza datele</string>
+
+    <string name="btnEditDiscount">Editeaza oferta</string>
+    <string name="btnDeleteDiscount">Sterge oferta</string>
+
+    <string name="tagDiscount">obiect selectat</string>
+    <string name="tagListDiscounts">listDisc</string>
+    <string name="ToastMessageSaveData">Datele au fost salvate</string>
+
+    <string name="imageType">image/*</string>
+    <string name="intentTitle">Title</string>
+
+
+
+    <string name="DatePattern">dd/MM/yyyy</string>
+
+    <string name="PrefFileKey">filePreferences</string>
+    <string name="emailPreferencesKey">emailPreferences</string>
+    <string name="feedbackPreferencesKey">feedbackPreferences</string>
+    <string name="switchPreferencesKEy">switchPreferences</string>
+    <string name="ratingBarFileKey">ratingBarFile</string>
+
+    <string name="aboutPageKey">aboutPage</string>
+
+
+
+    <string-array name="add_subject_values">
+        <item>Complimente</item>
+        <item>Reclamatii</item>
+        <item>Probleme tehnice</item>
+        <item>Sugestii</item>
+        <item>Alt subiect</item>
+    </string-array>
+
+</resources>
